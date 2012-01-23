@@ -1,6 +1,6 @@
 h1. Tinux
 
-By lab2@codespin.ch. Tinux is a (very) small Linux distribution that was actually created to compile C source code and to allow minimal network checks. The first version is bootable from a CD and needs at least 128MB RAM memory. Feel free to contribute since a lot of packages and features are outstanding
+By "lab2@codespin.ch":mailto:lab2@codespin.ch. Tinux is a (very) small Linux distribution that was actually created to compile C source code and to allow minimal network checks. The first version is bootable from a CD and needs at least 128MB RAM memory. Feel free to contribute since a lot of packages and features are outstanding
 
 h2. ISO unstable
 
